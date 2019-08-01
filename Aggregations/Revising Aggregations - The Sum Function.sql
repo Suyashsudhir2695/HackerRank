@@ -1,0 +1,1 @@
+Reselect sum(population) from city where district='California';
