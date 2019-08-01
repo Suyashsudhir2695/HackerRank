@@ -1,2 +1,2 @@
 # HackerRank
-## HackerTank SQL Solutions in MySql
+## HackerRank SQL Solutions in MySql
